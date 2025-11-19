@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Klapt.Event.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bc69f27252664f06b52116eb133b6e10229eca1")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b66990d2f344491366e6982a4e5219aec45ceb3")]
->>>>>>> origin/feature/efcore
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f3b942fdc65c4a4d28c9cb74f92584171dc2cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Klapt.Event.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Klapt.Event.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

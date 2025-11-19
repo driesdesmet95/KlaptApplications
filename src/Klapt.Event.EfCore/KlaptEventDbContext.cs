@@ -1,5 +1,6 @@
 ﻿using Klapt.Event.Domain.EventDateEntity;
 using Klapt.Event.Domain.EventEntity;
+using Klapt.Event.Domain.EventTypeEntity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Klapt.Event.EfCore
@@ -19,6 +20,7 @@ namespace Klapt.Event.EfCore
 
         public DbSet<EventItem> EventItems => Set<EventItem>();
         public DbSet<EventDate> EventDates => Set<EventDate>();
+        public DbSet<EventType> EventTypes => Set<EventType>();
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -35,6 +37,8 @@ namespace Klapt.Event.EfCore
             base.OnModelCreating(modelBuilder);
             ConfigureEventItem(modelBuilder);
             ConfigureEventDate(modelBuilder);
+            ConfigureEventType(modelBuilder);
+
         }
 
         private static void ConfigureEventItem(ModelBuilder modelBuilder)
@@ -54,6 +58,15 @@ namespace Klapt.Event.EfCore
             entity.Property(d => d.End).IsRequired();
             entity.HasIndex(d => d.Start);
             entity.HasIndex(d => d.End);
+        }
+
+        private static void ConfigureEventType(ModelBuilder modelBuilder)
+        {
+            var entity = modelBuilder.Entity<EventType>();
+            entity.Property(e => e.Name).IsRequired().HasMaxLength(100);
+            entity.HasMany(et => et.Events)
+                  .WithOne(e => e.Type)
+                  .HasForeignKey(e => e.EventTypeId);
         }
     }
 }
