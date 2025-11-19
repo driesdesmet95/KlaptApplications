@@ -1,0 +1,12 @@
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\bin\Debug\net9.0\Klapt.Event.Domain.deps.json
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\bin\Debug\net9.0\Klapt.Event.Domain.dll
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\bin\Debug\net9.0\Klapt.Event.Domain.pdb
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\Klapt.Event.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\Klapt.Event.Domain.AssemblyInfoInputs.cache
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\Klapt.Event.Domain.AssemblyInfo.cs
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\Klapt.Event.Domain.csproj.CoreCompileInputs.cache
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\Klapt.Event.Domain.sourcelink.json
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\Klapt.Event.Domain.dll
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\refint\Klapt.Event.Domain.dll
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\Klapt.Event.Domain.pdb
+C:\Klapt.Events\KlaptApplications\src\Klapt.Event.Domain\obj\Debug\net9.0\ref\Klapt.Event.Domain.dll
