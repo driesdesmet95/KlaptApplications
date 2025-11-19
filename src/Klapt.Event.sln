@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klapt.Event.Blz", "Klapt.Event.Blz\Klapt.Event.Blz.csproj", "{DA7B5799-7CF0-4CC2-A1D7-1177DB013971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klapt.Event.Domain", "Klapt.Event.Domain\Klapt.Event.Domain.csproj", "{3E4BDECA-88FA-478C-9F13-303A58AF92C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +29,23 @@ Global
 		{DA7B5799-7CF0-4CC2-A1D7-1177DB013971}.Release|x64.Build.0 = Release|Any CPU
 		{DA7B5799-7CF0-4CC2-A1D7-1177DB013971}.Release|x86.ActiveCfg = Release|Any CPU
 		{DA7B5799-7CF0-4CC2-A1D7-1177DB013971}.Release|x86.Build.0 = Release|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Debug|x64.Build.0 = Debug|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Debug|x86.Build.0 = Debug|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Release|x64.ActiveCfg = Release|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Release|x64.Build.0 = Release|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Release|x86.ActiveCfg = Release|Any CPU
+		{3E4BDECA-88FA-478C-9F13-303A58AF92C1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B61EDB-8843-4DE2-99FD-A97A71242883}
 	EndGlobalSection
 EndGlobal
