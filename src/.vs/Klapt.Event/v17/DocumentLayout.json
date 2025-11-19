@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Klapt.Events\\KlaptApplications\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46AC93AF-2D52-4A3C-BA80-C594DC386D54}|Klapt.Event.Api\\Klapt.Event.Api.csproj|c:\\klapt.events\\klaptapplications\\src\\klapt.event.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AC93AF-2D52-4A3C-BA80-C594DC386D54}|Klapt.Event.Api\\Klapt.Event.Api.csproj|solutionrelative:klapt.event.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D27FAA5-455D-40B4-9A96-7CC5F507DDAC}|Klapt.Event.EfCore\\Klapt.Event.EfCore.csproj|c:\\klapt.events\\klaptapplications\\src\\klapt.event.efcore\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D27FAA5-455D-40B4-9A96-7CC5F507DDAC}|Klapt.Event.EfCore\\Klapt.Event.EfCore.csproj|solutionrelative:klapt.event.efcore\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D27FAA5-455D-40B4-9A96-7CC5F507DDAC}|Klapt.Event.EfCore\\Klapt.Event.EfCore.csproj|c:\\klapt.events\\klaptapplications\\src\\klapt.event.efcore\\iefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D27FAA5-455D-40B4-9A96-7CC5F507DDAC}|Klapt.Event.EfCore\\Klapt.Event.EfCore.csproj|solutionrelative:klapt.event.efcore\\iefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D27FAA5-455D-40B4-9A96-7CC5F507DDAC}|Klapt.Event.EfCore\\Klapt.Event.EfCore.csproj|c:\\klapt.events\\klaptapplications\\src\\klapt.event.efcore\\klapteventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D27FAA5-455D-40B4-9A96-7CC5F507DDAC}|Klapt.Event.EfCore\\Klapt.Event.EfCore.csproj|solutionrelative:klapt.event.efcore\\klapteventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4BDECA-88FA-478C-9F13-303A58AF92C1}|Klapt.Event.Domain\\Klapt.Event.Domain.csproj|c:\\klapt.events\\klaptapplications\\src\\klapt.event.domain\\evententity\\eventitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4BDECA-88FA-478C-9F13-303A58AF92C1}|Klapt.Event.Domain\\Klapt.Event.Domain.csproj|solutionrelative:klapt.event.domain\\evententity\\eventitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BDECA-88FA-478C-9F13-303A58AF92C1}|Klapt.Event.Domain\\Klapt.Event.Domain.csproj|c:\\klapt.events\\klaptapplications\\src\\klapt.event.domain\\eventdateentity\\eventdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BDECA-88FA-478C-9F13-303A58AF92C1}|Klapt.Event.Domain\\Klapt.Event.Domain.csproj|solutionrelative:klapt.event.domain\\eventdateentity\\eventdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\obj\\Debug\\net9.0\\Klapt.Event.Domain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,34 +53,90 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KlaptEventDbContext.cs",
-              "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\KlaptEventDbContext.cs",
-              "RelativeDocumentMoniker": "Klapt.Event.EfCore\\KlaptEventDbContext.cs",
-              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\KlaptEventDbContext.cs",
-              "RelativeToolTip": "Klapt.Event.EfCore\\KlaptEventDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBkAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Klapt.Event.Api\\Program.cs",
+              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Api\\Program.cs*",
+              "RelativeToolTip": "Klapt.Event.Api\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T08:05:11.804Z",
+              "WhenOpened": "2025-11-19T09:01:18.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Klapt.Event.EfCore\\EfRepository.cs",
+              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\EfRepository.cs",
+              "RelativeToolTip": "Klapt.Event.EfCore\\EfRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:50:30.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEfRepository.cs",
+              "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\IEfRepository.cs",
+              "RelativeDocumentMoniker": "Klapt.Event.EfCore\\IEfRepository.cs",
+              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\IEfRepository.cs",
+              "RelativeToolTip": "Klapt.Event.EfCore\\IEfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:49:41.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KlaptEventDbContext.cs",
+              "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\KlaptEventDbContext.cs",
+              "RelativeDocumentMoniker": "Klapt.Event.EfCore\\KlaptEventDbContext.cs",
+              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.EfCore\\KlaptEventDbContext.cs",
+              "RelativeToolTip": "Klapt.Event.EfCore\\KlaptEventDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:35:33.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDate.cs",
+              "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\EventDateEntity\\EventDate.cs",
+              "RelativeDocumentMoniker": "Klapt.Event.Domain\\EventDateEntity\\EventDate.cs",
+              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\EventDateEntity\\EventDate.cs",
+              "RelativeToolTip": "Klapt.Event.Domain\\EventDateEntity\\EventDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:31:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EventItem.cs",
               "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\EventEntity\\EventItem.cs",
               "RelativeDocumentMoniker": "Klapt.Event.Domain\\EventEntity\\EventItem.cs",
               "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\EventEntity\\EventItem.cs",
               "RelativeToolTip": "Klapt.Event.Domain\\EventEntity\\EventItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T07:57:19.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Klapt.Event.Domain.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\obj\\Debug\\net9.0\\Klapt.Event.Domain.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Klapt.Event.Domain\\obj\\Debug\\net9.0\\Klapt.Event.Domain.AssemblyInfo.cs",
@@ -74,10 +146,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T07:55:34.285Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },
@@ -88,6 +156,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

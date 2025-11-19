@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Klapt.Event.EfCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a618e5303eb084bc7cacc1c12750f2d43c1aba1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6293d3e6a89055d69be83ec392fddfdc7ac3e22a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Klapt.Event.EfCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Klapt.Event.EfCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
