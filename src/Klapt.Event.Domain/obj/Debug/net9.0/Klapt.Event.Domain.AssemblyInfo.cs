@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Klapt.Event.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b54064b0a148e5549b72a36231dd6cc89f6b5668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbc88d2937b3b6be96a660cd362d70e0bedbeeb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Klapt.Event.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Klapt.Event.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
