@@ -38,9 +38,9 @@
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Klapt.Event.Domain\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\Base\\BaseEntity.cs*",
-              "RelativeToolTip": "Klapt.Event.Domain\\Base\\BaseEntity.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Klapt.Events\\KlaptApplications\\src\\Klapt.Event.Domain\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Klapt.Event.Domain\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T07:27:33.601Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Klapt.Event.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T07:26:49.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T07:26:49.662Z"
             }
           ]
         },
