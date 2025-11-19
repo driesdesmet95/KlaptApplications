@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Klapt.Event.Blz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b54064b0a148e5549b72a36231dd6cc89f6b5668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b66990d2f344491366e6982a4e5219aec45ceb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Klapt.Event.Blz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Klapt.Event.Blz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

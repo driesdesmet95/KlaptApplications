@@ -1,17 +1,17 @@
 self.assetsManifest = {
-  "version": "YTWWq004",
+  "version": "xu/LMJxH",
   "assets": [
     {
       "hash": "sha256-KHj37x5TjHq8+vq4dKFTWXhleW+J3mpWEwM/IX+fTXs=",
       "url": "Klapt.Event.Blz.styles.css"
     },
     {
-      "hash": "sha256-TxMEE+XDYOG+SX30+nh0hA8eLIa49R83wxzvJiLpH+M=",
-      "url": "_framework/Klapt.Event.Blz.p6gfhbv1fu.wasm"
+      "hash": "sha256-FFZBwJfEs7BZDXhnheZph4lh0lXzig05NSP6L4rz1TQ=",
+      "url": "_framework/Klapt.Event.Blz.koi66re368.pdb"
     },
     {
-      "hash": "sha256-ohIcdzoXRGKr1ezpzYXRqJKXDZRaJj+VN8eDFEQATF0=",
-      "url": "_framework/Klapt.Event.Blz.usl8l6otxf.pdb"
+      "hash": "sha256-127DYqwp0h/5TfirroWVP1bb9nyhLD1cwqcvSf6Xuqs=",
+      "url": "_framework/Klapt.Event.Blz.xquemiqgzk.wasm"
     },
     {
       "hash": "sha256-O6gwBUzf9DWkYK5DXMp4fTEAstwNFIPsjlViL0BTB+s=",
@@ -770,7 +770,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.ahs9krftg4.wasm"
     },
     {
-      "hash": "sha256-8szbMTn1MwLyfgYSIDIDAYe7WrTy3o+JNs3L3cWGUFY=",
+      "hash": "sha256-zjkHZPK8TeQUFjuwPR7dQfUskRrHkWIfYuZsJrwkOJk=",
       "url": "_framework/blazor.boot.json"
     },
     {
